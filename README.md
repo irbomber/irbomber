@@ -1,7 +1,7 @@
 [
   {
     "title": "سلام",
-    "text": "چخبر عزچز دلم",
+    "text": "چخبر دلم",
     "image": " ok",
     "image_link": "https://www.uistore.design/items/marvie-ios-ui-kit-for-sketch-and-figma/"
   },
