@@ -1,9 +1,9 @@
 [
   {
     "title": "سلام",
-    "text": "چخبر دلم",
+    "text": "چخبر عزیز دلم",
     "image": " ok",
-    "image_link": "https://www.uistore.design/items/marvie-ios-ui-kit-for-sketch-and-figma/"
+    "image_link": "https://blog.faradars.org/wp-content/uploads/2022/10/hacker-security-threat-attack.jpg"
   },
   {
     "title": "سلام",
